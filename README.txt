@@ -8,17 +8,17 @@ Formant-based
 Unit selection
 HMM-based
 
-• Limitations observed in HMM-based speech synthesis:
-• The vocoder
-• The precision of acoustic models
-• The presence of the over-smoothing effect
+â€¢ Limitations observed in HMM-based speech synthesis:
+â€¢ The vocoder
+â€¢ The precision of acoustic models
+â€¢ The presence of the over-smoothing effect
 
 
 Approaches to optimize HMM-based TTS:
-• Adjusting vocoder parameters
-• Reducing the size of decision trees
-• Introducing streaming synthesis
-• Applying source code optimizations
+â€¢ Adjusting vocoder parameters
+â€¢ Reducing the size of decision trees
+â€¢ Introducing streaming synthesis
+â€¢ Applying source code optimizations
 
 
 
@@ -30,3 +30,4 @@ In this paper, a systematic review is presented focusing on the impact of deep l
 
 We concluded that DNN can be implemented to reduce the footprint size and seamless operation on mobile devices and enable offline use of speech synthesis applications.
 
+THIS PAPER WAS PRESENTED AT THE ICSISCET'2023 AND ACCEPTED TO BE PUBLISHED AT ALGORITHMS FOR INTELLIGENT SYSTEMS----- A SPRINGER JOURNAL
